@@ -16,7 +16,8 @@ This project is a portfolio landing page that showcases my web-building skills, 
 3. Open index.html
 
 ## LIVE SITE:
-[Add github pages link here later]
+https://github.com/Frost-Asnyc/Indipendent-Photograph-website
+
 
 ## LICENSE:
 This project is for educational purposes
