@@ -20,4 +20,4 @@ https://github.com/Frost-Asnyc/Indipendent-Photograph-website
 
 
 ## LICENSE:
-This project is for educational purposes
+All copyright is claimed by the Athour
